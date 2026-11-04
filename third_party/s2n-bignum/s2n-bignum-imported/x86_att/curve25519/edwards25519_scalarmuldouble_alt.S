@@ -3634,7 +3634,7 @@ Ledwards25519_scalarmuldouble_alt_pepadd:
 
 S2N_BN_SIZE_DIRECTIVE(Ledwards25519_scalarmuldouble_alt_pepadd)
 
-S2N_BN_SIZE_DIRECTIVE(edwards25519_scalarmuldouble_alt)
+
 
 // ****************************************************************************
 // The precomputed data (all read-only). This is currently part of the same
